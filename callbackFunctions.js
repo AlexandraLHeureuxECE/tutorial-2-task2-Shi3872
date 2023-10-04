@@ -16,7 +16,6 @@ let triangleFrame = function(letter)
             // the rest of the lines of the triangle would contain all stars
             // create a loop to add 2i + 1 stars to the line
         }
-
         framedLetter += line + '\n';
     }
 
